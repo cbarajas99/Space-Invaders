@@ -1,2 +1,2 @@
 # Space-Invaders
-A simple version of Space Invaders using 
+A simple version of Space Invaders using Python 2. 
